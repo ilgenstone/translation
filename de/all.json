@@ -6,7 +6,7 @@
       "CREATE": "Erstellen",
       "DELETE": "Löschen",
       "DUPLICATE": "Duplizieren",
-      "EDIT": "Änder",
+      "EDIT": "Ändern",
       "HIDE": "Verstecken",
       "REMOVE": "Entfernen",
       "UPDATE": "Aktualisieren",
@@ -339,6 +339,7 @@
     },
     "EARN_CREDIT": {
       "APPLY_CREDIT": "Guthaben anwenden",
+      "BALANCE_IN_MONTHS_PL": "{{numMonths}} Monat(e)",
       "COPIED": "Kopiert!",
       "COPYLINK": "Link kopieren",
       "CREATE_ACCOUNT": "Erstellen Sie ein Konto, um Freunde einzuladen",
@@ -366,9 +367,9 @@
       "TOTAL_MONTHS_EARNED": "Anzahl an verdienten Pro Monaten",
       "VERIFY_EMAIL": "Um jemanden einzuladen, bestätigen Sie zunächst Ihre E-Mail-Adresse.",
       "SUBSCRIBE_NOTICE": "<div><br />Abonnieren Sie Pro, um Ihr Guthaben zu nutzen! Die Belastung ihres Kontos erfolgt erst, wenn Ihr Guthaben aufgebraucht ist.</div>",
-      "BALANCE_IN_MONTHS": "{{numMonths}} Monate",
       "CREDIT_BALANCE": "Kontostand",
-      "CREDIT_BALANCE_TEXT": "Sie haben <bold>{{userCredit}}</bold> Restguthaben und <bold> {{userCreditEarned}}</bold> Guthaben insgesamt erhalten. {{months}} verbleibender Monat oder verbleibende Monate RemNote Pro kostenlos.<br /><br /> Abonnieren Sie Pro, um Ihr Guthaben zu nutzen! Die Belastung auf dem Konto erfolgt erst, wenn Ihr Guthaben aufgebraucht ist."
+      "CREDIT_BALANCE_TEXT": "Sie haben <bold>{{userCredit}}</bold> Restguthaben und <bold> {{userCreditEarned}}</bold> Guthaben insgesamt erhalten. {{months}} verbleibender Monat oder verbleibende Monate RemNote Pro kostenlos.<br /><br /> Abonnieren Sie Pro, um Ihr Guthaben zu nutzen! Die Belastung auf dem Konto erfolgt erst, wenn Ihr Guthaben aufgebraucht ist.",
+      "BALANCE_IN_MONTHS": "{{numMonths}} Monate"
     },
     "EDITOR": {
       "DATES_AND_TIMES": {
@@ -691,6 +692,7 @@
   "SOURCES": {
     "LINK_SOURCE": {
       "ENTER_URL": "URL eingeben",
+      "EMBED_LINK": "Link einbetten",
       "INVALID_URL": "Ungültige URL",
       "LABEL": "Link",
       "LINK": "Link",
@@ -709,6 +711,7 @@
       "PDF_WITH_COUNT_other": "{{count, number}} PDFs",
       "SELECT_FILES": "Dateien auswählen",
       "SELECT_FILES_TO_UPLOAD": "Wählen Sie die Dateien zum Hochladen aus",
+      "UPLOAD": "Upload",
       "UPLOADING": "Hochladen..."
     },
     "WIKIMEDIA_COMMONS": {
